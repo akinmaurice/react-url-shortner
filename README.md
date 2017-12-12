@@ -1,6 +1,8 @@
 # react-url-shortner
 
-React App to make use of the URL Link Shortner API from earlier repo.
+React App to make use of the URL Link Shortner API from earlier repo. https://github.com/akinmaurice/urlShortner
+
+
 
 1. Post Request with the url as a body sent to the API.
 2. API checks if the URL has been encoded previously.
